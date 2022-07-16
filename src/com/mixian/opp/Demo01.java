@@ -5,6 +5,5 @@ public class Demo01 {
         System.out.println("hello");
         System.out.println("he");
         System.out.println("hh");
-        System.out.println("llll");
     }
 }
